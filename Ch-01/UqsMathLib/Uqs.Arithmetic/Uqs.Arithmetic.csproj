@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Uqs.Arithmetic.Tests.Unit\Uqs.Arithmetic.Tests.Unit.csproj" />
-  </ItemGroup>
-
 </Project>
